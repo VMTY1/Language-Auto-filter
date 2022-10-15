@@ -33,7 +33,7 @@
 
 
 
-<a href="https://heroku.com/deploy?template=https://github.com/Sahidmalik07/movies-house-bot-test">
+<a href="https://heroku.com/deploy?template=https://github.com/Bhatmanjusms/test-mv-bot/blob/main/README.md">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 
