@@ -118,7 +118,6 @@ async def next_page(bot, query):
         )
     btn.insert(0, [
         InlineKeyboardButton('ʙᴏᴛ ɪɴғᴏ', callback_data='ss_alert'),
-        InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='https://youtube.com/channel/UCPaHDqWf3D3w2nxb8p3sr4A'),
         InlineKeyboardButton('ʀᴜʟᴇs', callback_data='rules_alert')
         ],[
         InlineKeyboardButton("HOW TODOWNLOAD", url=malik.int_link)
