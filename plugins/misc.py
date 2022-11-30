@@ -266,13 +266,13 @@ async def mbbss(query, message):
 @Client.on_message(filters.command("about"))
 async def about(client, message):
         buttons = [[
-            InlineKeyboardButton('🌴 ʙᴏᴛs ᴄʜᴀɴɴᴇʟ 🌴', url='https://t.me/malik_bots'),
+            InlineKeyboardButton('🌴 ʙᴏᴛs ᴄʜᴀɴɴᴇʟ 🌴', url='https://t.me/Akshay_Chand4'),
             InlineKeyboardButton('♥️ sᴏᴜʀᴄᴇ', callback_data='source')
         ], [
             InlineKeyboardButton('ʜᴏᴍᴇ ', callback_data='start'),
             InlineKeyboardButton('ᴄʟᴏᴄᴇ', callback_data='close_data')
         ], [
-            InlineKeyboardButton('📞 ᴏᴡɴᴇʀ', url='https://t.me/sahid_malik'),
+            InlineKeyboardButton('📞 ᴏᴡɴᴇʀ', url='https://t.me/Akshay_Chand4'),
             InlineKeyboardButton('❤️ ᴅᴏɴᴀᴛɪᴏɴ ❤️', callback_data='malik')
         ], [
             InlineKeyboardButton('🚶‍♀ 𝐛𝐚𝐜𝐤 🚶‍♀', callback_data='close_data')
