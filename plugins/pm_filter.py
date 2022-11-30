@@ -468,13 +468,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🌴 ʙᴏᴛs ᴄʜᴀɴɴᴇʟ 🌴', url='https://t.me/malik_bots'),
             InlineKeyboardButton('♥️ sᴏᴜʀᴄᴇ', callback_data='source')
         ], [
             InlineKeyboardButton('ʜᴏᴍᴇ ', callback_data='start'),
             InlineKeyboardButton('ᴄʟᴏᴄᴇ', callback_data='close_data')
         ], [
-            InlineKeyboardButton('📞 ᴏᴡɴᴇʀ', url='https://t.me/sahid_malik'),
+            InlineKeyboardButton('📞 ᴏᴡɴᴇʀ', url='https://t.me/Akshay_Chand4'),
             InlineKeyboardButton('❤️ ᴅᴏɴᴀᴛɪᴏɴ ❤️', callback_data='malik')
         ], [
             InlineKeyboardButton('🚶‍♀ 𝐛𝐚𝐜𝐤 🚶‍♀', callback_data='start')
@@ -487,7 +486,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "GHHM":
         buttons = [[
-            InlineKeyboardButton('🌴 Bots Channel 🌴', url='https://t.me/malik_bots'),
             InlineKeyboardButton('𝗘𝘅𝘁𝗿𝗮 𝗠𝗼𝗱𝗲𝘀', callback_data='extra'),
             InlineKeyboardButton('𝗘𝘅𝘁𝗿𝗮', callback_data='mbbumm')
         ], [
@@ -1021,7 +1019,6 @@ async def auto_filter(client, msg, spoll=False):
         )
     btn.insert(0, [
         InlineKeyboardButton('ʙᴏᴛ ɪɴғᴏ', callback_data='ss_alert'),
-        InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='https://youtube.com/channel/UCPaHDqWf3D3w2nxb8p3sr4A'),
         InlineKeyboardButton('ʀᴜʟᴇs', callback_data='rules_alert')
         ],[
         InlineKeyboardButton("HOW TODOWNLOAD", url=malik.int_link)
