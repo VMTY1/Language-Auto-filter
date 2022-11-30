@@ -3,26 +3,20 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}</b>
-✯ <b>𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/{}>{}</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
-✯ updates channel: <a href=https://t.me/m_house786>CLICK HERE</a>
-✯ Subscribe you tube channel: <a href=<a href=https://youtube.com/channel/UCPaHDqWf3D3w2nxb8p3sr4A>CLICK HERE</a></b>""" 
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: vps
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v4.0.6 [ 𝙱𝙴𝚃𝙰 ]""" 
     SOURCE_TXT = """<b>NOTE:</b>
-- <b>Movies house is a open source project. 
-- Source 👉 <a href=https://t.me/malik_bots/8>CLICK HERE</a></b>
-
-<b>DEVS:</b>
-- <a href=https://t.me/sahid_malik>Sahid malik</a>"""
+- Not Open Source Project 
+  Contact to bot owner"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. movies house 🏠 have admin privillage.
+1. Bot have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -41,7 +35,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/sahid_malik)</code>
+<code>[Button Text](buttonurl:https://t.me/xxxxxxx_xxxx)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -96,8 +90,7 @@ This module only works for my admins
 ★ <b>𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
 ★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-★ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/sahid_malik>Sahid malik</a></b> """
+★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """#NewGroup
 Group = {}, {}.
 Total Members = <code>{}</code>
@@ -114,9 +107,7 @@ Name - {}
 😎 ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ᴀs ᴀ ᴀᴜᴛᴏ-ғɪʟᴛᴇʀ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ....
 ɪᴛs ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴍᴇ: ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀs ᴀᴅᴍɪɴ, ᴛʜᴀᴛs ᴀʟʟ, ɪ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴛʜᴇʀᴇ...😎
 
-⚠️ ᴍᴏʀᴇ ʜᴇʟᴘ ᴄʜᴇᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ..
-
-©ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: sᴀʜɪᴅ ᴍᴀʟɪᴋ</b>"""
+⚠️ ᴍᴏʀᴇ ʜᴇʟᴘ ᴄʜᴇᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ..</b>"""
 
     MALIK_TXT =  """<b>Donation</b>
 
@@ -133,7 +124,7 @@ Name - {}
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/sahid_malik><b>sahid malik</b></a> ᚛━━━━━━━━━━━━"""
+━━━━━━━━━━━━᚜ <a href=https://t.me/Akshay_Chand4><b>Akshay chand</b></a> ᚛━━━━━━━━━━━━"""
     DINETTE_TXT =  """<b>Donation</b>
 
 
@@ -150,7 +141,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/sahid_malik><b>sahid malik</b></a> ᚛━━━━━━━━━━━━"""
+━━━━━━━━━━━━᚜ <a href=https://t.me/Akshay_Chand4><b>Akshay Chand</b></a> ᚛━━━━━━━━━━━━"""
     VIDEO_TXT ="""<b>𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 
 • 𝘜𝘴𝘢𝘨𝘦
@@ -232,9 +223,9 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 
     OWNER_TXT = """<b>>━━━━᚜ Owner Details ᚛━━━━<
     
-⭕️ FULL NAME : Sahid malik
-⭕️ USERNAME: @sahid_malik
-⭕️PERMANENT DM LINK : <a href=https://t.me/sahid_malik>CLICK Here</a></b>"""
+⭕️ FULL NAME : Akshay Chand
+⭕️ USERNAME: uploading
+⭕️PERMANENT DM LINK : Uploading"""
 
     SPELLING_TEXT = """<u><b> Malik name test</b></u>"""
 
@@ -277,11 +268,9 @@ MALIK_PHH = """<b>Hay 👋 {}.... 🌷 ❤️
 If you have any question then contact us below  👇</b>"""
 
 ALURT_FND = """<b>Your 👉 {}❗️ spelling is not correct, please choose from the list given 👇
- ┏━━━━•❅•°•❈•°•❅━━━━┓
- ✰ CHECK YOUR MOVIE ON THE GIVEN LIST AND SELECT YOUR MOVIE.. 
-
- ✰ दी गई सूची में अपनी फिल्म देखें और अपनी फिल्म चुनें</b> 👇👇👇                                             ✰
- ┗━━━━•❅•°•❈•°•❅•━ ━━┛
+               ┏━━━━•❅•°•❈•°•❅━━━━┓
+ ✰ CHECK YOUR MOVIE ON THE GIVEN LIST AND SELECT YOUR MOVIE..                                             ✰
+               ┗━━━━•❅•°•❈•°•❅•━ ━━┛
 """
 
 MNTFN = """<b>⭕️ ᴛʜɪꜱ ᴍᴏᴠɪᴇ ɴᴏᴛ ғᴏᴜɴᴅ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ. ʀᴇǫᴜᴇꜱᴛ ᴛᴏ ᴀᴅᴍɪɴ..
@@ -305,7 +294,7 @@ ADDG = """ʜᴇʏ..
 
 ⚠️ ᴍᴏʀᴇ ʜᴇʟᴘ ᴄʜᴇᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ..
 
-©ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: sᴀʜɪᴅ ᴍᴀʟɪᴋ"""
+©ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: Akshay Chand"""
 
 M_NNT_FND = """malik"""
 
