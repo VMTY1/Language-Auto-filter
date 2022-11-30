@@ -875,7 +875,7 @@ G_R = environ.get("G_R", "https://telegra.ph/file/0dd95cec0179cb3721d71.jpg")
 COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
 PPI = environ.get("PPI", "https://graph.org/file/2182926ecba267071b0ec.jpg")
 
-IYGL = environ.get("IYGL", "https://youtu.be/KQSplGRD5gQ")
+IYGL = environ.get("IYGL", "https://youtu.be/cTVJuad-hMU")
 
 REQUEST_ADMIN = environ.get("REQUEST_ADMIN", "https://t.me/iPapPrimeSPbot")
 
