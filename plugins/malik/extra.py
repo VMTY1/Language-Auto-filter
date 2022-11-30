@@ -562,7 +562,6 @@ async def stickerid(bot, message):
 
 SS_ALERT = """
 
-🔹ᴍʏ ɴᴀᴍᴇ ᴍᴏᴠɪᴇs ʜᴏᴜsᴇ  🏠 Bᴏᴛ
 🔹I ᴀᴍ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ.😎
 🔹Jᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀs ᴀᴅᴍɪɴ
 🔹ɪᴛ ᴡɪʟ ᴘʀᴏᴠɪᴅᴇ ᴀʟʟ ᴍᴏᴠɪᴇs ʏᴏᴜʀ  ɢʀᴏᴜᴘ.😎
@@ -642,7 +641,7 @@ WCM = """<b>𝗛𝗲𝘆 {} .!
 
 🔹 ᴘʟᴇᴀsᴇ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs
 
-🔹 ©ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: sᴀʜɪᴅ ᴍᴀʟɪᴋ</b>"""
+🔹 ©ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: ᴀᴋꜱʜᴀʏ ᴄʜᴀɴᴅ</b>"""
 
 STTS = """<b>🗂𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
 👨‍👩‍👧‍👧 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
@@ -786,14 +785,13 @@ GROUP_Rules = """<b>
 
 MY_DETALS = """<b>Hey {}. Welcome ❤️
 
-🔹 ᴍʏ ɴᴀᴍᴇ : sᴀʜɪᴅ ᴍᴀʟɪᴋ
-🔹 ᴜsᴇʀɴᴀᴍᴇ: @sahid_malik
-🔹 ᴘᴍᴛ. ᴅᴍ ʟɪɴᴋ: <a href=https://t.me/sahid_malik>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-🔹 ᴘʟᴀᴄᴇ: sᴀʜᴀʀᴀɴᴘᴜʀ | ᴜᴘ | ɪɴᴅɪᴀ
-🔹 ᴋɴᴏᴡ ʟᴀɴɢᴜᴀɢᴇ: ʜɪɴᴅɪ, ᴇɴɢʟɪsʜ,
-      ᴍᴀʟʏᴀʟᴀᴍ
-🔹 ʀᴇʟɪɢɪᴏɴ ᴄᴀsᴛ: ᴍᴜsʟɪᴍ
-🔹 ᴅᴏʙ: 00 | 09 | 2005
+🔹 ᴍʏ ɴᴀᴍᴇ : ᴀᴋꜱʜᴀʏ ᴄʜᴀɴᴅ
+🔹 ᴜsᴇʀɴᴀᴍᴇ: uploading
+🔹 ᴘᴍᴛ. ᴅᴍ ʟɪɴᴋ: uploading
+🔹 ᴘʟᴀᴄᴇ:| ᴍᴀʜᴀʀᴀꜱʜᴛʀᴀ | ɪɴᴅɪᴀ
+🔹 ᴋɴᴏᴡ ʟᴀɴɢᴜᴀɢᴇ: ʜɪɴᴅɪ, ᴇɴɢʟɪꜱʜ
+🔹 ʀᴇʟɪɢɪᴏɴ ᴄᴀsᴛ: ʜɪɴᴅᴜ
+🔹 ᴅᴏʙ: 00 | 04 | 2004
 🔹 Aɢᴇ: ᴊᴜsᴛ ᴄᴀʟᴄᴜʟᴀᴛᴇ
 🔹 ʟᴇᴠᴇʟ: ғʀɪsᴛ ʏᴇᴀʀ ʙᴛᴇᴄ ᴇᴄᴇ
 🔹 ғᴀᴠ ᴄᴏʟᴏᴜʀ: ʀᴇᴅ, ɢʀᴇᴇɴ, ʙʟᴜᴇ..</b>"""
@@ -862,23 +860,23 @@ MALIKK = """<b>ʜᴇʏ {}.👋\n\n⚠️Oops !! ʏᴏᴜʀ ʀᴏɴɢ\n\nᴘʟᴇ
 ʜɪ = ʜɪɴᴅɪ 
 ᴇɴ = ᴇɴɢʟɪsʜ 
 ᴍʟ = ᴍᴀʟᴀʏᴀʟᴀᴍ </b>"""
-MALK = environ.get("MALk", "https://telegra.ph/file/66278d019899141f4b028.jpg")
+MALK = environ.get("MALk", "https://graph.org/file/4e568b07c179ef85fc454.jpg")
 
-MQTK = environ.get("MQTK", "https://telegra.ph/file/66278d019899141f4b028.jpg")
+MQTK = environ.get("MQTK", "https://graph.org/file/4e568b07c179ef85fc454.jpg")
 TMP_DOWNLOAD_DIRECTORY = environ.get("TMP_DOWNLOAD_DIRECTORY", "./DOWNLOADS/")
 PPC = environ.get("PPC", "https://telegra.ph/file/3b6afd6c6fcd09606ea9f.jpg")
-MQTTP = environ.get("MQTTP", "https://telegra.ph/file/f8a3c7a57376427646f39.jpg")
+MQTTP = environ.get("MQTTP", "https://graph.org/file/d9661c79488060a5443aa.jpg")
 TG_MAX_SELECT_LEN = environ.get("TG_MAX_SELECT_LEN", "100")
 WCM_P = environ.get("WCM_P", "https://telegra.ph/file/bdaa63ddf255fd3506f0a.jpg")
-SMART_PIC = environ.get("SMART_PIC", "https://telegra.ph/file/7cf564b255461abfc75fe.jpg")
+SMART_PIC = environ.get("SMART_PIC", "https://graph.org/file/2182926ecba267071b0ec.jpg")
 GHHMN = environ.get("GHHMN", "https://telegra.ph/file/4265c6e3428cd2b060ede.jpg")
-GHHMO = environ.get("GHHMNO", "https://telegra.ph/file/605f4c8b2461c1e4f8123.jpg")
+GHHMO = environ.get("GHHMNO", "https://graph.org/file/52952cee3f9d3b0eb0eb1.jpg")
 G_R = environ.get("G_R", "https://telegra.ph/file/0dd95cec0179cb3721d71.jpg")
 COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
-PPI = environ.get("PPI", "https://telegra.ph/file/2315c0c4b48223f32b020.jpg")
+PPI = environ.get("PPI", "https://graph.org/file/2182926ecba267071b0ec.jpg")
 
 IYGL = environ.get("IYGL", "https://youtu.be/KQSplGRD5gQ")
 
-REQUEST_ADMIN = environ.get("REQUEST_ADMIN", "https://t.me/m_admins")
+REQUEST_ADMIN = environ.get("REQUEST_ADMIN", "https://t.me/iPapPrimeSPbot")
 
 
