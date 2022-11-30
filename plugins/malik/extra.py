@@ -525,7 +525,7 @@ async def telegraph(client, message):
     else:
         await message.reply_photo(
             photo=f"https://telegra.ph{response[0]}",
-            caption=f"<b>𝗅𝗂𝗇𝗄:-</b> <code>https://telegra.ph{response[0]}</code>\n\n Powerd By: @m_house786 ",
+            caption=f"<b>𝗅𝗂𝗇𝗄:-</b> <code>https://telegra.ph{response[0]}</code>\n\n Powerd By: @iPapkornOfficial ",
             quote=True,
             reply_markup=InlineKeyboardMarkup([[
                InlineKeyboardButton("⚡️ Open Link⚡️", url=f"https://telegra.ph{response[0]}"),
