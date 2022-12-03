@@ -864,7 +864,7 @@ MALK = environ.get("MALk", "https://graph.org/file/4e568b07c179ef85fc454.jpg")
 
 MQTK = environ.get("MQTK", "https://graph.org/file/4e568b07c179ef85fc454.jpg")
 TMP_DOWNLOAD_DIRECTORY = environ.get("TMP_DOWNLOAD_DIRECTORY", "./DOWNLOADS/")
-PPC = environ.get("PPC", "https://telegra.ph/file/3b6afd6c6fcd09606ea9f.jpg")
+PPC = environ.get("PPC", "https://graph.org/file/c7241c3d6a6b772711c4e.jpg")
 MQTTP = environ.get("MQTTP", "https://graph.org/file/d9661c79488060a5443aa.jpg")
 TG_MAX_SELECT_LEN = environ.get("TG_MAX_SELECT_LEN", "100")
 WCM_P = environ.get("WCM_P", "https://telegra.ph/file/bdaa63ddf255fd3506f0a.jpg")
