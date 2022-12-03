@@ -282,9 +282,7 @@ MNTFN = """<b>⭕️ ᴛʜɪꜱ ᴍᴏᴠɪᴇ ɴᴏᴛ ғᴏᴜɴᴅ ᴍʏ ᴅ�
 
 ADG = """<b>Hay. {}..\n\nThankyou For Adding Me In.. ❣️
 
-             👉 <s>{}</s> 👈 
-
-If you have any questions & doubts about using me..\n\n Contact my Owner >> @sahid_malik</b>"""
+             👉 <s>{}</s> 👈 </b>"""
 
 ADDG = """ʜᴇʏ..
 
