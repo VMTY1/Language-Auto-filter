@@ -100,3 +100,5 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 SHORTENER_API = environ.get("SHORTENER_API", None)
 LONG_MEGHA_URL = environ.get("LONG_MEGHA_URL", False)
+
+REQ_GRP = int(environ.get('REQ_GRP', '-1001645795385'))
