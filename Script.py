@@ -294,8 +294,8 @@ ADDG = """ʜᴇʏ..
 
 ©ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: Akshay Chand"""
 
-M_NNT_FND = """malik"""
+M_NNT_FND = """Updating"""
 
-M_NNT_FNDD = """malikb"""
+M_NNT_FNDD = """Updating."""
 
 
