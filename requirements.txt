@@ -4,7 +4,7 @@ Pymongo[srv]
 Motor
 Marshmallow
 Umongo
-Requests
+start
 Aiofiles
 imdbpy==2021.4.18
 googletrans==3.1.0a0 # Google Translater 
@@ -12,7 +12,7 @@ gTTS # Google Translater
 youtube-dl
 ffmpeg
 youtube_search
-requests
+start
 googletrans==3.1.0a0
 telegraph
 beautifulsoup4
@@ -47,4 +47,4 @@ ujson
 telethon
 shortzy
 Heroku3
-dnspython
+dnspython==2.3.0
